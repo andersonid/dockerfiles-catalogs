@@ -1,7 +1,4 @@
 FROM nginx
-LABEL zaytech.vendor="Zaytech Solucoes" 
-LABEL zaytech.version="1.0"
-LABEL zaytech.release="201506-03"
 MAINTAINER Leandro Augusto <leandro@zaytech.com.br>
 
 
